@@ -11,22 +11,22 @@ textarea{resize:vertical;}
 .browserupgrade{margin:0.2em 0;background:#ccc;color:#000;padding:0.2em 0;}
 @font-face {
  font-family: 'fontello';
- src: url('./../font/fontello.eot?99393387');
- src: url('./../font/fontello.eot?99393387#iefix') format('embedded-opentype'),
-  url('./../font/fontello.woff?99393387') format('woff'),
-  url('./../font/fontello.ttf?99393387') format('truetype'),
-  url('./../font/fontello.svg?99393387#fontello') format('svg');
+ src: url('../font/fontello.eot?99393387');
+ src: url('../font/fontello.eot?99393387#iefix') format('embedded-opentype'),
+  url('../font/fontello.woff?99393387') format('woff'),
+  url('../font/fontello.ttf?99393387') format('truetype'),
+  url('../font/fontello.svg?99393387#fontello') format('svg');
  font-weight: normal;
  font-style: normal;
 }
 @font-face {
  font-family: 'open_sanslight';
- src: url('./../font/opensans-light-webfont.eot');
- src: url('./../font/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
-  url('./../font/opensans-light-webfont.woff2') format('woff2'),
-  url('./../font/opensans-light-webfont.woff') format('woff'),
-  url('./../font/opensans-light-webfont.ttf') format('truetype'),
-  url('./../font/opensans-light-webfont.svg#open_sanslight') format('svg');
+ src: url('../font/opensans-light-webfont.eot');
+ src: url('../font/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../font/opensans-light-webfont.woff2') format('woff2'),
+  url('../font/opensans-light-webfont.woff') format('woff'),
+  url('../font/opensans-light-webfont.ttf') format('truetype'),
+  url('../font/opensans-light-webfont.svg#open_sanslight') format('svg');
  font-weight: normal;
  font-style: normal;
 }
